@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Yash Daxini
 - 👀 I’m a problem solver
-- I'm done projects on javascript , React & asp.net core mvc .
-- Know about me at :- [Yash Daxini](https://yash-daxini.netlify.app/)
+- Developed projects on javascript , React JS & asp.net core mvc .
+- Skills :- Javascript , React JS , Asp .net MVC 
+- Know about me at :- [Yash Daxini](https://yash-daxini.netlify.app/) 
 
-Skills: JS / REACT  JS / HTML / CSS / ASP .NET MVC  
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yash-Daxini&show_icons=true&theme=radical)
 
