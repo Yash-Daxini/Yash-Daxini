@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Daxini
 - 👀 I’m a problem solver
-- Developed projects on javascript , React JS & asp.net core mvc .
+- Developed projects on javascript , React JS & ASP.NET core MVC
 - Skills :- Javascript , React JS , Asp .net MVC 
 - Know about me at :- [Yash Daxini](https://yash-daxini.netlify.app/) 
 
