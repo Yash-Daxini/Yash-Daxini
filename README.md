@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Daxini&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Daxini&show_icons=true&theme=radical)  
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Daxini&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Yash-Daxini&theme=radical)  
 
