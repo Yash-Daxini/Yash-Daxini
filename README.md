@@ -12,5 +12,5 @@
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Daxini&show_icons=true&theme=radical)
 
-![Yash-Daxini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Daxini&theme=radical&hide_border=true)
+![Yash-Daxini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Daxini&theme=radical&hide_border=false)
 
